@@ -1,0 +1,45 @@
+.elevation-3 {
+    box-shadow: 0 10px 20px rgba(0,0,0,.19),0 6px 6px rgba(0,0,0,.23)!important;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.navbar-brand {
+    display: inline-block;
+}
+
+.brand-image {
+    margin-top: -.5rem;
+    margin-right: .2rem;
+    height: 35px;
+}
+
+.navbar-cooking {
+    background-color: #27233A;
+    
+}
+
+.brand-text {
+    font-weight: 300!important;
+    color: #FEFDFF !important;
+}
+
+.ml-span {
+    margin-left: 5%;
+}
+
+.pd-search {
+    right: 2.2rem !important;
+}
+
+.input-group-sm > .btn{
+    margin-top: 0.15rem;
+    margin-bottom: 0.15rem;    
+}
+
+.input-group-sm :active{
+    background-color: #FEFDFF;
+    color:#27233A;
+}

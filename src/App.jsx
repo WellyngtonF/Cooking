@@ -6,10 +6,12 @@ import Header from './template/header'
 import Routes from './routes'
 
 const App = () => (
-  <HashRouter>
-    <Header />
-    <Routes />
-  </HashRouter>
+    <HashRouter>
+        <div className='wrapper'>
+            <Header />
+            <Routes />
+        </div>
+    </HashRouter>
 )
 
 export default App
